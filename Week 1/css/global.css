@@ -1,0 +1,21 @@
+body {
+  background-color: lightgreen;
+}
+
+#img1 {
+  float: left;
+}
+
+h1, h2, h3, h4 {
+  color: white;
+}
+
+.squad {
+  margin: 20px;
+  border-top: 3px;
+  border-color: black;
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  float: left;
+}
